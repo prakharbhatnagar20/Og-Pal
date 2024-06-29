@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "840238206167",
+    "project_id": "pal-app-2d81d",
+    "storage_bucket": "pal-app-2d81d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:840238206167:android:565fed9b0b054f7a797492",
+        "android_client_info": {
+          "package_name": "com.nativemobilebits.loginflow"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHICE8scYtkP_D3LEFQ2a7Po9AmyGh7w8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
